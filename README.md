@@ -74,3 +74,4 @@ This project demonstrates the provisioning and management of a simple cloud-nati
 ![Screenshot 2025-06-06 164153](https://github.com/user-attachments/assets/d7e12155-8ff1-4021-8b93-ff4f26dcf119)
 ![Screenshot 2025-06-06 132047](https://github.com/user-attachments/assets/da00c525-31e5-4596-ad63-11fa0e54ad75)
 ![Screenshot 2025-06-06 111808](https://github.com/user-attachments/assets/289195a5-dd0b-4dbd-99ec-382f70688017)
+![Screenshot 2025-06-06 183559](https://github.com/user-attachments/assets/c8cccdb0-b725-4c25-a181-ed0567f50b8a)
