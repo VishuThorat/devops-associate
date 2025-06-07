@@ -1,5 +1,5 @@
 # devops-associate
-# DevOps Associate Practical Exam - Setup Overview
+# DevOps Associate Practical - Setup Overview
 
 ## Project Overview
 
@@ -22,7 +22,7 @@ This project demonstrates the provisioning and management of a simple cloud-nati
 ## Docker Compose Setup
 
 - Multi-service app with:
-  - `web` service using `nginx:alpine` on port 8080, with environment variables and HTTP healthchecks.
+  - `web` service using `nginx:alpine` on port 8081, with environment variables and HTTP healthchecks.
   - `redis` service on port 6379.
 - ELK Stack for log aggregation:
   - Elasticsearch, Logstash, Kibana.
@@ -42,7 +42,7 @@ This project demonstrates the provisioning and management of a simple cloud-nati
 1. Ensure you have Docker and Docker Compose installed.
 2. Run `docker-compose up -d` to start all services.
 3. Access:
-   - Web app: `http://localhost:8080`
+   - Web app: `http://localhost:8081`
    - Kibana: `http://localhost:5601`
    - Prometheus UI: (configured in compose file, e.g., `http://localhost:9090`)
 
